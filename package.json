@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://guillaumesere.github.io/app-user-auth/",
+  "homepage": "https://guillaumesere.github.io/app-user-auth",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
