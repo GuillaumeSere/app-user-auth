@@ -1,4 +1,4 @@
-##Authentification avec React, Vite.js et Supabase
+# Authentification avec React, Vite.js et Supabase
 
 Ce projet est une application d'authentification réalisée avec React, Vite.js et Supabase. Il permet aux utilisateurs de se connecter à l'application en utilisant leur adresse e-mail.
 
